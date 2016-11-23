@@ -1,0 +1,21 @@
+{
+  "name": "angular-bx.wsm.favorites",
+  "description": "Angular module for bitrix module wsm.favorites",
+  "main": "dist/wsm-favorites.min.js",
+  "keywords": [
+    "wsm.favorites"
+  ],
+  "license": "MIT",
+  "homepage": "http://w-smart.ru/marketplace/wsm.favorites/",
+  "version": "1.0.0",
+  "ignore": [ 
+	"node_modules",
+	"src",
+	".hg",
+	".idea",
+	".hgignore",
+	"bower.json",
+	"gulpfile.js",
+	"package.json"
+	]	
+}
